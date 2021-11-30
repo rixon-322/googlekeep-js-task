@@ -1,0 +1,21 @@
+.nav1{
+    color: #1F1534;
+    padding: 14px;
+    display: inline;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    margin-top: 22px;
+}
+.T{
+    background-color:#458FF6;
+    color: white;
+    border-radius: 50%;
+    width: 30px;
+    text-align:center ;      
+}
+.Trafalgar{
+    color: #233348;
+    margin-left: 10px;
+}
